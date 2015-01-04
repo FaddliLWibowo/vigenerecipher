@@ -1,4 +1,5 @@
-vigenerecipher
+Aplikasi Kriptografi
 ==============
 
-Enkrip+Dekrip
+- Menggunakan algoritma kriptografi vigenere cipher
+- Fitur: enkripsi dan dekripsi teks
